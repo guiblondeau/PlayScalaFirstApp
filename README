@@ -1,4 +1,4 @@
-This is your new Play application
-=====================================
+Task list with Play Framework scala
+===================================
 
-This file will be packaged with your application, when using `play dist`.
+Application made from the Play Framework Tutorial
